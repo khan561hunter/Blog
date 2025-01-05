@@ -65,7 +65,7 @@ const CommentSection = () => {
         </div>
         <button
           onClick={handleAddComment}
-          className="w-full bg-blue-500 text-white py-2 px-4 rounded-md shadow hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-400"
+          className="w-full bg-[#3A3960] text-[#A9BFA8] py-2 px-4 rounded-md shadow hover:text-[#3A3960] hover:bg-[#A9BFA8] focus:outline-none focus:ring-2 focus:ring-blue-400"
         >
           Add Comment
         </button>
